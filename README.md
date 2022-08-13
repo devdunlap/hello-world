@@ -4,7 +4,7 @@
 # The purpose of this application is to gather information from a user. Have an ETL scrape a Job board for matching positions, and to have a resume retrieved from storage and sent to the job posting.
 
 ##Step 1 will be to identify a bot or method to collect the following information. (Name, email, password, keywords for job search)
-
+#investigate which containers I can use for the front end of the app
 
 
 ##Step 2 will be to develop an ETL that pulls the job information from the job board and runs a filter to remove duplicates and a refined search for keywords.
