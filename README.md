@@ -47,3 +47,4 @@ for job_element in python_job_elements:
 
 ##Step will be storing the information in a variable and writing a script to pull your resume from storage and email it to the variable.
 
+cant believe I put all this in a mark down file
