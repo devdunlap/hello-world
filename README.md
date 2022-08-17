@@ -42,8 +42,10 @@ for job_element in python_job_elements:
     link_url = job_element.find_all("a")[1]["href"]
     print(f"Apply here: {link_url}\n")
     print()
+################################################################################################################################################################
+####### this is how u comment
 
-
+#leave white space
 
 ##Step will be storing the information in a variable and writing a script to pull your resume from storage and email it to the variable.
 
