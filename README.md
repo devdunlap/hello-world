@@ -56,3 +56,8 @@ I need to organize this folder
 # chop wood, carry water
 
 every day I'm hustling
+
+#### this was the answer to Eri's issue
+os.system(f'useradd {item} -p {RAND_PASS_GEN()} -G {DEPL[x]}')
+
+os.system('groupadd -f '+ item)
